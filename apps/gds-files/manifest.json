@@ -1,0 +1,21 @@
+{
+  "id": "gds-files",
+  "name": "GDS Files",
+  "author": "GanDesktop",
+  "description": "A native Wayland file manager for Linux with translucent windows, live desktop theme sync, tabs, hierarchical file tags, media metadata previews, a built-in terminal, and an XDG Desktop Portal file picker.",
+  "category": "system",
+  "platforms": [
+    "Linux"
+  ],
+  "website": null,
+  "source": "https://github.com/GanDesktop/gds",
+  "building": true,
+  "publishedAt": "2026-11-16T01:40:00+08:00",
+  "previews": [
+    "preview0.png",
+    "preview1.png",
+    "preview2.png",
+    "preview3.png",
+    "preview4.png"
+  ]
+}
